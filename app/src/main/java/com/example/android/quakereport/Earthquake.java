@@ -3,7 +3,7 @@ package com.example.android.quakereport;
 /**
  * Created by AP on 11.2.2017..
  */
-//git test 2e33
+//git test 2e332143214321432542354
 public class Earthquake {
 
     private String mMagnitude;
