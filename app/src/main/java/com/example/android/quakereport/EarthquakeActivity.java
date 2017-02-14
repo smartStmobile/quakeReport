@@ -15,14 +15,14 @@
  */
 package com.example.android.quakereport;
 
+import android.app.Activity;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
 import java.util.ArrayList;
 
-public class EarthquakeActivity extends AppCompatActivity {
+public class EarthquakeActivity extends Activity {
 
     public static final String LOG_TAG = EarthquakeActivity.class.getName();
 
